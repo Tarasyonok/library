@@ -1,2 +1,2 @@
 # library
-Деплой: https://tarasyonok.github.io/library
+Deploy: https://tarasyonok.github.io/library
